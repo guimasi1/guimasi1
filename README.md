@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**guimasi1/guimasi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate fullstack developer with a background as a physiotherapist.
+
+## Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/guido-masi-fullstack-dev/)
+- [masiguido.com](https://www.masiguido.com/)
+
+## Languages and Tools
+
+- **Programming Languages**: JavaScript, React, Vue, Java, HTML, CSS, Node.js, Typscript
+- **Frameworks/Libraries**: React, Redux, Spring, Express, Bootstrap, Tailwind, SASS
+- **Tools**: Git, GitHub, Visual Studio Code, IntelliJ, Figma
+- **Databases**: MongoDB, PostgreSQL
+
+## Currently Learning
+
+- 🌱 I'm on a journey of mastering Node.js and Vue.
+
+## My GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guimasi1)](https://git.io/streak-stats)
+
+Feel free to check out my repositories and don't hesitate to connect with me if you share similar interests or have any questions. Let's learn and grow together!
+
+
