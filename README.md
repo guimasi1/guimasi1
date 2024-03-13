@@ -8,7 +8,7 @@ I'm a passionate fullstack developer with a background as a physiotherapist.
 
 ## Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/guido-masi-fullstack-dev/)
+- [Linkedin](https://www.linkedin.com/in/guido-masi-fullstack-dev/) <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" title="Linkedin />
 - [masiguido.com](https://www.masiguido.com/)
 
 ## Languages and Tools
@@ -46,7 +46,7 @@ I'm a passionate fullstack developer with a background as a physiotherapist.
  
 </div>
 
-- **Databases**: MongoDB, PostgreSQL
+- **Databases**:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
