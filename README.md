@@ -7,10 +7,11 @@ Welcome to my GitHub profile!
 I'm a passionate fullstack developer with a background as a physiotherapist.
 
 ## Connect with Me
-
-- [Linkedin](https://www.linkedin.com/in/guido-masi-fullstack-dev/) <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" title="Linkedin />
+<div>
+   
+- <a href="https://www.linkedin.com/in/guido-masi-fullstack-dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>
 - [masiguido.com](https://www.masiguido.com/)
-
+</div>
 ## Languages and Tools
 
 - **Programming Languages**:
